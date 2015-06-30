@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: guanliqun
-baseurl: /StrayBirds
+baseurl: /TedKKBlog
 markdown: redcarpet
 safe: false
 highlighter: pygments
